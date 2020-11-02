@@ -13,7 +13,7 @@ $ pip install colorama
 $ pip install webbrowser
 $ git clone https://github.com/rhaby/fhbrhaby
 $ cd FMBrhaby
-$ python fmbrhaby.py
+$ python fhbrhaby.py
 ```
 ```bash
 #Telegarm | @ciku370

@@ -106,7 +106,7 @@ if ali1 == '2' :
     import sys
     import os
     import time
-    os.system("rm Available.txt")
+    os.system("rm list.txt")
     print('=========================================')
     print('$Example Domain email')
     print('1-   @gmail.com')
@@ -145,5 +145,5 @@ if ali1 == '2' :
 
 
         print (uesr+rhaby3+email)
-        with open('Available.txt', 'a') as x:
+        with open('list.txt', 'a') as x:
          x.write(uesr + rhaby3 + email + '\n')

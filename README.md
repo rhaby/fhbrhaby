@@ -12,7 +12,7 @@ $ pip install bs4
 $ pip install colorama
 $ pip install webbrowser
 $ git clone https://github.com/rhaby/fhbrhaby
-$ cd FMBrhaby
+$ cd fhbrhaby
 $ python fhbrhaby.py
 ```
 ```bash
